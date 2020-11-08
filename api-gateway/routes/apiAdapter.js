@@ -7,4 +7,4 @@ module.exports = (baseUrl) => {
         baseUrl: baseUrl,
         timeout: TIMEOUT
     });
-}
+} 
